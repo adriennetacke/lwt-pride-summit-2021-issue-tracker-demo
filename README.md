@@ -1,2 +1,16 @@
-# lwt-pride-summit-2021-issue-tracker-demo
-Showcased during MongoDB's Product Demo at Lesbians Who Tech: Pride Summit 2021 with Adrienne Tacke! Participants can interact with the GitHub Issue Tracker shown in the product demo.
+# MongoDB Product Demo @ Lesbians Who Tech: Pride Summit 2021 
+![](https://webassets.mongodb.com/kj8qct3a6moqn1v31-startup-Slalom2.png)
+
+## 👋 Welcome Lesbians Who Tech: Prise Summit attendees!
+
+This repository will be part of the interactive demo. When prompted, feel free to open an issue on this repository to see the GitHub Issue Tracker in action!
+
+Presented by [Adrienne Tacke](https://twitter.com/AdrienneTacke), Senior Developer Advocate at [MongoDB](https://www.mongodb.com/cloud/atlas).
+
+## Additional Resources
+- [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
+- [MongoDB Realm](https://www.mongodb.com/realm)
+- [Creating Multi-Cloud Clusters on MongoDB Atlas](https://developer.mongodb.com/how-to/setup-multi-cloud-cluster-mongodb-atlas/)
+- [Building a Mobile Chat App using Realm](https://developer.mongodb.com/how-to/building-a-mobile-chat-app-using-realm-new-way/) by [Andrew Morgan](https://twitter.com/andrewmorgan)
+
+
