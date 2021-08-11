@@ -1,7 +1,7 @@
 # MongoDB Product Demo @ Lesbians Who Tech: Pride Summit 2021 
 ![](https://webassets.mongodb.com/kj8qct3a6moqn1v31-startup-Slalom2.png)
 
-## 👋 Welcome Lesbians Who Tech: Prise Summit attendees!
+## 👋 Welcome Lesbians Who Tech: Pride Summit attendees!
 
 This repository will be part of the interactive demo. When prompted, feel free to open an issue on this repository to see the GitHub Issue Tracker in action!
 
